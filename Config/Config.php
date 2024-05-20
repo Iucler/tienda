@@ -1,15 +1,15 @@
 <?php
-const BASE_URL = "https://lucielierros.ddns.net/tienda-virtual/";
-const HOST = "lucielierros.ddns.net";
-const USER = "root";
-const PASS = "Titin2001Tito900a";
-const DB = "tiendavirtual";
+const BASE_URL = "localhost/";
+const HOST = "";
+const USER = "";
+const PASS = "";
+const DB = "";
 const CHARSET = "charset=utf8";
 const TITLE = "Un intercambio?";
 const MONEDA = "€";
 const CLIENT_ID = "";
-const USER_SMTP = "smtptestershop@outlook.com";
-const PASS_SMTP = "ijitutrgjsgdoprd";
+const USER_SMTP = "";
+const PASS_SMTP = "";
 const PUERTO_SMTP = "587";
 const HOST_SMTP = "smtp.office365.com";
 
